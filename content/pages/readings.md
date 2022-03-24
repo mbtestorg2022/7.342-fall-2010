@@ -116,7 +116,7 @@ Ko, M. S., H. Nakauchi, and N. Takahashi. "[The Dose Dependence of Glucocorticoi
 
 ### Paper 2
 
-Bengtsson, M., A. Stahlberg, P. Rorsman, and M. Kubista. "Gene Expression Profiling in Single Cells from the Pancreatic Islets of Langerhans Reveals Lognormal Distribution of mRNA Levels." _Genome Research_ 15 (2005): 1388–92. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://genome.cshlp.org/content/15/10/1388.full.pdf))
+Bengtsson, M., A. Stahlberg, P. Rorsman, and M. Kubista. "Gene Expression Profiling in Single Cells from the Pancreatic Islets of Langerhans Reveals Lognormal Distribution of mRNA Levels." _Genome Research_ 15 (2005): 1388–92. ([PDF](http://genome.cshlp.org/content/15/10/1388.full.pdf))
 
 
 {{< tdclose >}}
